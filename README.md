@@ -7,6 +7,10 @@ Copy repository to your local folder and run command
 ```
 $ composer install
 ```
+or install through packagist: 
+```
+$ composer create-project openrun/restcountries --stability dev
+```
 
 ### Task Description
 
