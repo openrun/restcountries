@@ -1,0 +1,19 @@
+{
+    "name": "marek/rest-countries",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3@dev",
+        "kevinlebrun/colors.php": "1.0.*",
+        "ext-json": "*",
+        "phpunit/phpunit": "7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rest\\RestCountries\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require-dev": {
+    }
+}
