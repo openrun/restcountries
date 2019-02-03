@@ -1,6 +1,13 @@
 # restcountries.eu supporting class 
 ---
 
+### Installation
+
+Copy repository to your local folder and run command
+```
+$ composer install
+```
+
 ### Task Description
 
 To create a PHP application that will list all the countries which speaks the same language or 
