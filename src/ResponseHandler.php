@@ -165,7 +165,7 @@ class ResponseHandler
 
     /**
      * @param $text
-     * @param $result
+     * @param $format
      * @return mixed|string
      */
     public function customText($text, $format): string
