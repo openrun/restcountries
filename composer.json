@@ -2,6 +2,12 @@
     "name": "openrun/restcountries",
     "type": "project",
     "version": "1.0.0",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/openrun/restcountries"
+        }
+    ],
     "require": {
         "guzzlehttp/guzzle": "^6.3@dev",
         "kevinlebrun/colors.php": "1.0.*",
